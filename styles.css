@@ -1,0 +1,29 @@
+header {
+    color: #ad5c86;
+}
+
+* {
+    text-align: center;
+}
+
+h1 { font-family: Georgia, 'Times New Roman', Times, serif; 
+font-size: 30px;
+color: #5d68ad;
+font-weight: 1000;
+ }
+h2 { font-family: Georgia, 'Times New Roman', Times, serif; 
+font-size: 20px;
+color: #5d68ad;
+ }
+p { font-family: Georgia, 'Times New Roman', Times, serif; 
+font-size: 18px;
+color: #ad5c86;
+text-align: inherit;
+width: 300;
+ }
+ p img{
+    float:right; width: 1200px;
+ }
+html {
+  background-color: #f2eeea; 
+}
